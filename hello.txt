@@ -1,1 +1,3 @@
-hello AUB
+hello Amity University Bengaluru
+Btech CSE
+ECE
