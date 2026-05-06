@@ -1,2 +1,5 @@
+void mai()
+pintf("Hello workd)";
+scnf("dxfghjk");
 amityunibversity bengaluru
 cse ece ee mec
