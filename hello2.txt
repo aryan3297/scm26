@@ -1,5 +1,5 @@
 void mai()
-pintf("Hello workd)";
-scnf("dxfghjk");
+pintf("Hell
+scnf("dxfghjk")
 amityunibversity bengaluru
 cse ece ee mec
