@@ -1,2 +1,4 @@
 hello Amity University Bengaluru
 Btech CSE
+BTECH MTECH CSE
+AIML
