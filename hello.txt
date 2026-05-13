@@ -1,4 +1,6 @@
 Amit
 Btech CSE
 BTECH MTECH CSE
-AIML
+Devops
+FSD
+IOT
