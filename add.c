@@ -1,7 +1,9 @@
 #include<stdio.h>
-void main()
+int main()
 {
-	int a, b,c;
+	longlint a, b,c;
+	float c,d,f,g;
+	printf(sdfghjkml);
 
 
 
