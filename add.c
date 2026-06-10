@@ -1,11 +1,11 @@
-main()
+void main()
 {
 float a,b,c;
 
-}
+} longint cd,c;
+float d,v,z;
 
-#include<stdio.h>
-void main()
+void main() getch90;
 {
 	int a, b,c;
 
